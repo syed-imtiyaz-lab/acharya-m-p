@@ -1,0 +1,22 @@
+.images{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pimfl{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+    gap: 0.5rem;
+}
+
+.ptx{
+    text-align: justify;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ff1a96;
+}
